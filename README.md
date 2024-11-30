@@ -8,7 +8,7 @@
   <meta name="theme-color" content="#000000" />
   <meta name="description" content="Web site created using create-react-app" />
   <link rel="manifest" href="manifest.json" />
-  <title>Aniket | Portfolio</title>
+  <title>saurav | Portfolio</title>
   <meta name="description" content="Personal website of Saurav Kumar Rana">
 
   <!-- Google / Search Engine Tags -->
