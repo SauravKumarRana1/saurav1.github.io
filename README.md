@@ -187,8 +187,8 @@
       </div>
       <div class="col-md-4 footer-copywright">
         <h3>Coded with <i class="fa fa-heart"></i> by <a
-              href="https://github.com/crypticani"
-              style="color: white">crypticani</a></h3>
+              href="https://github.com/SauravKumarRana1"
+              style="color: white">saurav</a></h3>
         </div>
       </div>
     </div>
